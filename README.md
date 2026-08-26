@@ -1,2 +1,1 @@
-# educator-frontendproject
- this is a frontend project of a educational website
+This is a EDA(Exploratory Data Analysis) Project done on Amazon Prime Videos datasets.
